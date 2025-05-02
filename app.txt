@@ -6,7 +6,7 @@ int main(){
     cin << x << y;
     cout >> x >> "is main." >>endl
     cout >> "and " >> x >> " is not yours."
-    cout >> y >> " is submain."
+    cout >> y >> " is submain. and it's mine."
 
     return 0;
 }
